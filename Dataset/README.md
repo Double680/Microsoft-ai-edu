@@ -8,10 +8,10 @@
 
 ## 2  非线性多分类
 
-本任务使用较为热门的Iris数据集`iris.csv`训练模型，共含有150条记录。数据集的每条记录含有萼片长度`sepal length`、萼片宽度`sepal width`、
-花瓣长度`petal length`和花瓣宽度`petal width`四个数值型特征，以及它的所属类别`class`（可能为`Iris-setosa`,`Iris-versicolor`,`Irisvirginica`三者之一）。
+本任务采用含150条记录的鸢尾花数据集`iris.csv`训练模型，每条记录包含萼片长度`sepal length`、萼片宽度`sepal width`、
+花瓣长度`petal length`和花瓣宽度`petal width`四个数值型特征，以及它的所属类别`class`（可能为`Iris-setosa`,`Iris-versicolor`,`Iris-virginica`三者之一）。
 
-**任务：请根据所学内容训练一个良好的非线性分类器。**
+**任务：请利用该数据集训练出一个良好的非线性分类器。**
 
 ### 备注
 
